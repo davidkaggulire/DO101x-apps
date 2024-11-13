@@ -5,7 +5,7 @@ var response;
 
 app.get('/', function (req, res) {
 
-    response = 'WElcome to davids menu' + '\n';
+    response = 'WElcome to ESTHER CAFE' + '\n';
 
     //send the response to the client
     res.send(response);
